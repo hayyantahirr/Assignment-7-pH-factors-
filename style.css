@@ -1,0 +1,69 @@
+body {
+  background-color: #babbb8;
+  color: white;
+}
+#heading {
+  background-color: #fcfcfc;
+  width: 1300px;
+  color: #66685b;
+  text-align: left;
+ 
+}
+
+#alk-acid {
+  width: 1300px;
+  text-align: left;
+}
+.alk {
+    height: 30px;
+    
+}
+.acid{
+    height: 30px;
+}
+#alk-1 {
+  background-color: #347aae;
+}
+#alk-2 {
+  background-color: #3686b9;
+}
+#alk-3 {
+  background-color: #3292c2;
+}
+#alk-4 {
+  background-color: #459fc9;
+}
+#alk-5 {
+  background-color: #5fadd3;
+}
+#alk-6 {
+  background-color: #75badb;
+}
+#alk-7 {
+  background-color: #8dc5e0;
+}
+#Neutral {
+  background-color: #27a97c;
+  font-size: 30px;
+}
+#acid-1 {
+  background-color: #e5abc1;
+}
+#acid-2 {
+  background-color: #e899b6;
+}
+#acid-3 {
+  background-color: #e588a7;
+}
+#acid-4 {
+  background-color: #e57a9e;
+}
+#acid-5 {
+  background-color: #e17498e2;
+}
+#acid-6 {
+  background-color: #df658a;
+}
+#acid-7 {
+  background-color: #da3b77;
+}
